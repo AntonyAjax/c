@@ -1,0 +1,15 @@
+{
+    "name": "tg-shellbot-heroku",
+    "description": "Heroku edition of erlandi",
+    "keywords": ["shell", "telegram", "docker", "bot"],
+    "repository": "https://github.com/AntonyAjax/a",
+    "stack": "container",
+    "env": {
+      "cuan": {
+        "description": " mulutandakotor."
+      },
+      "coin": {
+        "description": "bangsadkau."
+      }
+    }
+  }
