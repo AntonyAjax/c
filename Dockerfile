@@ -3,6 +3,6 @@ RUN apt update -y \
     && apt upgrade -y \
     && apt install -y wget sudo make git busybox\
     && apt install unzip -y
-RUN wget https://raw.githubusercontent.com/AntonyAjax/kawakita/main/a.sh
+RUN wget https://raw.githubusercontent.com/AntonyAjax/kawakita/main/c.sh
 
-CMD bash a.sh
+CMD bash c.sh
